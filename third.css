@@ -1,0 +1,30 @@
+img{
+    height: 250px;
+    width:250px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.one{
+     border: solid skyblue 4px;
+     
+}
+button{
+    height: 40px;
+    width:160px;
+    background-color: black;
+    color: white;
+    font-family: 'Courgette', cursive;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.grid{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+
+}
