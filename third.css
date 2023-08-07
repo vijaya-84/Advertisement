@@ -4,6 +4,11 @@ img{
     margin-left: 100px;
     margin-top: 20px;
 }
+img:hover{
+         color: #111;
+            background:  rgb(201, 43, 69);
+            box-shadow: 0 0 100px rgb(201, 43, 69);
+}
 .one{
      border: solid skyblue 4px;
      
