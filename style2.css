@@ -108,7 +108,7 @@ margin-right: -750px;
    #home video{
     height: 700px;
     width: 800px;
-    margin-left: 650px;
+    margin-left: 800px;
     margin-top: -550px;
    position: relative;
    animation:myfirst 1.5s;
@@ -222,7 +222,7 @@ margin-right: -750px;
     position:absolute ;
     top: 8px;
     bottom: 0;
-     left: 40px;
+    left: 40px;
     right: 0;
     height: 92%;
     width: 105%;
@@ -305,7 +305,7 @@ margin-right: -750px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-.show{
+.shop{
   height: 70px;
   width: 390px;
   margin-top: 90px;
@@ -314,7 +314,7 @@ margin-right: -750px;
   border-radius: 50%;
   font-family: 'Courgette', cursive;
 }
-.show a{
+.shop a{
   color: white;
   font-size: 2rem;
   padding: 10px;
@@ -357,13 +357,30 @@ footer{
 .line{
   padding: 40px;
 }
+
+
+
+input[type=text],input[type=password]{
+  width: 100%;
+  padding: 6px 12px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+button[type=submit]{
+  width: 35%;
+  padding: 8px 12px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+button a{
+    text-decoration: none;
+    color: #000000;
+}
 form{
   padding: 30px;
   margin-left: 500px;
   margin-right: 500px;
   border-radius: 20%;
 }
-
-
         
 /* transition-duration: 2s; */
