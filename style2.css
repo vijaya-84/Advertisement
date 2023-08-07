@@ -305,7 +305,7 @@ margin-right: -750px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-button{
+.show{
   height: 70px;
   width: 390px;
   margin-top: 90px;
@@ -314,7 +314,7 @@ button{
   border-radius: 50%;
   font-family: 'Courgette', cursive;
 }
-button a{
+.show a{
   color: white;
   font-size: 2rem;
   padding: 10px;
@@ -356,6 +356,12 @@ footer{
 }
 .line{
   padding: 40px;
+}
+form{
+  padding: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+  border-radius: 20%;
 }
 
 
